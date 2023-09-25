@@ -14,7 +14,7 @@
 10. Run ```bumble-export /path/to/exported.har /path/to/export/dir```
 
 ## How to compile
-1. Grab this repo: ```git clone```
+1. Grab this repo: ```git clone https://github.com/hyperglue/bumble-export```
 2. Run ```go build bumble-export.go```
 
 ## Output format
