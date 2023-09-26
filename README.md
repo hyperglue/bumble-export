@@ -1,4 +1,7 @@
 # Bumble export tool
+This tools converts Bumble HAR files into easily readable JSON and download all multimedia links into folder.
+
+Remember that photo links are only valid for about two hours after they are fetched from the Bumble API.
 ## Usage
 1. Open Bumble web app
 2. Open a chat you want to export
